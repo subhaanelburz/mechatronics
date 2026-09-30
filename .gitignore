@@ -1,3 +1,30 @@
+# Code Composer Studio & Eclipse specific
+#
+# Build artifacts and output directories
+Debug/
+Release/
+
+# Target configuration files
+targetConfigs/
+
+# User-specific settings and launch configurations
+.settings/
+.launches/
+*.launch
+*.user
+*.configspec
+
+# Ignore the workspace-level project file in the root directory
+/.project
+
+# TI-RTOS specific files (good to have for future projects)
+src/
+.config/
+.xdchelp
+
+
+# General C/C++ files & temporary files
+#
 # Prerequisites
 *.d
 
@@ -36,6 +63,10 @@
 *.x86_64
 *.hex
 
+# Log and temporary files
+*.log
+*.tmp
+
 # Debug files
 *.dSYM/
 *.su
@@ -53,3 +84,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# get rid of vs code folder
+.vscode/
