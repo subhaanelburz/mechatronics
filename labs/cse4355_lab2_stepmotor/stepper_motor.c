@@ -30,7 +30,7 @@
 // this is in terms of 1.8 degree steps
 #define CALIBRATED_STEPS 22
 
-#define LUT_SIZE 32         // microstep LUT size; 4 steps * 8 microsteps per step = 32 microstep table
+#define LUT_SIZE 8          // microstep LUT size; 4 steps * 2 microsteps per step = 8 microstep table
 #define PI 3.14159265359    // value of PI used in equations
 
 // struct to store the values of coils easily
@@ -83,8 +83,8 @@ uint8_t next_step[4] = {1, 2, 3, 0};
 uint8_t prev_step[4] = {3, 0, 1, 2};
 
 // initialize the LUT for microstepping
-// we have 8 microsteps per step
-// so 4 steps * 8 microsteps per step = 32 total microstep LUT
+// we have 2 microsteps per step
+// so 4 steps * 2 microsteps per step = 8 total microstep LUT
 void init_microstep_lut(void)
 {
     uint32_t i;
@@ -111,8 +111,8 @@ void init_microstep_lut(void)
 void set_microstep_signals(uint8_t index)
 {
     // calculate the sine index (270 degrees ahead)
-    // 32 is full 3/4 of it is 24, then mask it so it doesnt go out of bounds
-    uint8_t sine_index = (index + 24) & 0x1F;
+    // 8 is full 3/4 of it is 6, then mask it so it doesnt go out of bounds
+    uint8_t sine_index = (index + 6) & 0x7;
 
     microstep_signal a = microstep_lut[index];
     microstep_signal b = microstep_lut[sine_index];
@@ -221,7 +221,7 @@ void step_11(void)
     // save the index to the step table we finish at to record the zero deg location
     current_index = j;
     current_step_count = 0;
-    current_microstep_index = j * 8;
+    current_microstep_index = j * 2;
     current_microstep_count = 0;
 }
 
@@ -252,7 +252,7 @@ void step_12(float angle_deg)
 void step_14(float angle_deg)
 {
     // convert the full stepping (1.8 deg) to the microstep angle
-    float microstep_angle = 1.8f / 8;
+    float microstep_angle = 1.8f / 2;
 
     // first convert the angle to the num microsteps we need to move
     int32_t target_microstep_count = (int32_t) roundf(angle_deg / microstep_angle);
@@ -262,17 +262,17 @@ void step_14(float angle_deg)
     {
         if (target_microstep_count > current_microstep_count)
         {
-            current_microstep_index = (current_microstep_index + 1) & 0x1F;
+            current_microstep_index = (current_microstep_index + 1) & 0x7;
             current_microstep_count++;
         }
         else
         {
-            current_microstep_index = (current_microstep_index + LUT_SIZE - 1) & 0x1F;
+            current_microstep_index = (current_microstep_index + LUT_SIZE - 1) & 0x7;
             current_microstep_count--;
         }
 
         set_microstep_signals(current_microstep_index);
-        waitMicrosecond(250000);
+        waitMicrosecond(5000);
     }
 }
 
