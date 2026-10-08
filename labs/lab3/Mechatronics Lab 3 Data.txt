@@ -1,0 +1,894 @@
+Mechatronics Lab 3 Data pre calibration:
+
+Duty cycle   : 0 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2117
+Drain volts  : 9718 mV
+BEMF volts   : 282 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 0 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2117
+Drain volts  : 9718 mV
+BEMF volts   : 282 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 0 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2119
+Drain volts  : 9729 mV
+BEMF volts   : 271 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 0 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2118
+Drain volts  : 9724 mV
+BEMF volts   : 276 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 0 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2117
+Drain volts  : 9718 mV
+BEMF volts   : 282 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 10 %
+Optical freq : 1 Hz
+Optical rpm  : 2 rpm
+Raw ADC      : 2125
+Drain volts  : 9758 mV
+BEMF volts   : 242 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 10 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2124
+Drain volts  : 9752 mV
+BEMF volts   : 248 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 10 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2124
+Drain volts  : 9752 mV
+BEMF volts   : 248 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 10 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2125
+Drain volts  : 9758 mV
+BEMF volts   : 242 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 10 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2122
+Drain volts  : 9741 mV
+BEMF volts   : 259 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 20 %
+Optical freq : 114 Hz
+Optical rpm  : 214 rpm
+Raw ADC      : 1815
+Drain volts  : 8333 mV
+BEMF volts   : 1667 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 20 %
+Optical freq : 121 Hz
+Optical rpm  : 227 rpm
+Raw ADC      : 1830
+Drain volts  : 8401 mV
+BEMF volts   : 1599 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 20 %
+Optical freq : 121 Hz
+Optical rpm  : 227 rpm
+Raw ADC      : 1882
+Drain volts  : 8641 mV
+BEMF volts   : 1359 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 20 %
+Optical freq : 119 Hz
+Optical rpm  : 223 rpm
+Raw ADC      : 1836
+Drain volts  : 8430 mV
+BEMF volts   : 1570 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 20 %
+Optical freq : 126 Hz
+Optical rpm  : 236 rpm
+Raw ADC      : 1833
+Drain volts  : 8413 mV
+BEMF volts   : 1587 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 30 %
+Optical freq : 179 Hz
+Optical rpm  : 336 rpm
+Raw ADC      : 1628
+Drain volts  : 7472 mV
+BEMF volts   : 2528 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 30 %
+Optical freq : 209 Hz
+Optical rpm  : 392 rpm
+Raw ADC      : 1652
+Drain volts  : 7581 mV
+BEMF volts   : 2419 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 30 %
+Optical freq : 211 Hz
+Optical rpm  : 396 rpm
+Raw ADC      : 1620
+Drain volts  : 7438 mV
+BEMF volts   : 2562 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 30 %
+Optical freq : 215 Hz
+Optical rpm  : 403 rpm
+Raw ADC      : 1659
+Drain volts  : 7615 mV
+BEMF volts   : 2385 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 30 %
+Optical freq : 214 Hz
+Optical rpm  : 401 rpm
+Raw ADC      : 1654
+Drain volts  : 7592 mV
+BEMF volts   : 2408 mV
+BEMF rpm     : 0 rpm
+
+
+Duty cycle   : 40 %
+Optical freq : 302 Hz
+Optical rpm  : 566 rpm
+Raw ADC      : 1427
+Drain volts  : 6549 mV
+BEMF volts   : 3451 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 40 %
+Optical freq : 302 Hz
+Optical rpm  : 566 rpm
+Raw ADC      : 1425
+Drain volts  : 6543 mV
+BEMF volts   : 3457 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 40 %
+Optical freq : 301 Hz
+Optical rpm  : 564 rpm
+Raw ADC      : 1391
+Drain volts  : 6384 mV
+BEMF volts   : 3616 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 40 %
+Optical freq : 299 Hz
+Optical rpm  : 561 rpm
+Raw ADC      : 1414
+Drain volts  : 6492 mV
+BEMF volts   : 3508 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 40 %
+Optical freq : 304 Hz
+Optical rpm  : 570 rpm
+Raw ADC      : 1408
+Drain volts  : 6463 mV
+BEMF volts   : 3537 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 50 %
+Optical freq : 392 Hz
+Optical rpm  : 735 rpm
+Raw ADC      : 1188
+Drain volts  : 5454 mV
+BEMF volts   : 4546 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 50 %
+Optical freq : 393 Hz
+Optical rpm  : 737 rpm
+Raw ADC      : 1165
+Drain volts  : 5346 mV
+BEMF volts   : 4654 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 50 %
+Optical freq : 393 Hz
+Optical rpm  : 737 rpm
+Raw ADC      : 1192
+Drain volts  : 5472 mV
+BEMF volts   : 4528 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 50 %
+Optical freq : 385 Hz
+Optical rpm  : 722 rpm
+Raw ADC      : 1186
+Drain volts  : 5443 mV
+BEMF volts   : 4557 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 50 %
+Optical freq : 386 Hz
+Optical rpm  : 724 rpm
+Raw ADC      : 1217
+Drain volts  : 5586 mV
+BEMF volts   : 4414 mV
+BEMF rpm     : 0 rpm
+
+
+PB1 pressed! Increasing PWM by 10%, duty cycle = 60%
+
+Duty cycle   : 60 %
+Optical freq : 455 Hz
+Optical rpm  : 853 rpm
+Raw ADC      : 951
+Drain volts  : 4366 mV
+BEMF volts   : 5634 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 60 %
+Optical freq : 481 Hz
+Optical rpm  : 902 rpm
+Raw ADC      : 961
+Drain volts  : 4411 mV
+BEMF volts   : 5589 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 60 %
+Optical freq : 481 Hz
+Optical rpm  : 902 rpm
+Raw ADC      : 1002
+Drain volts  : 4599 mV
+BEMF volts   : 5401 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 60 %
+Optical freq : 479 Hz
+Optical rpm  : 898 rpm
+Raw ADC      : 1018
+Drain volts  : 4674 mV
+BEMF volts   : 5326 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 60 %
+Optical freq : 480 Hz
+Optical rpm  : 900 rpm
+Raw ADC      : 992
+Drain volts  : 4554 mV
+BEMF volts   : 5446 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 70 %
+Optical freq : 571 Hz
+Optical rpm  : 1071 rpm
+Raw ADC      : 781
+Drain volts  : 3585 mV
+BEMF volts   : 6415 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 70 %
+Optical freq : 572 Hz
+Optical rpm  : 1073 rpm
+Raw ADC      : 773
+Drain volts  : 3545 mV
+BEMF volts   : 6455 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 70 %
+Optical freq : 572 Hz
+Optical rpm  : 1073 rpm
+Raw ADC      : 826
+Drain volts  : 3790 mV
+BEMF volts   : 6210 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 70 %
+Optical freq : 572 Hz
+Optical rpm  : 1073 rpm
+Raw ADC      : 821
+Drain volts  : 3767 mV
+BEMF volts   : 6233 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 70 %
+Optical freq : 572 Hz
+Optical rpm  : 1073 rpm
+Raw ADC      : 814
+Drain volts  : 3733 mV
+BEMF volts   : 6267 mV
+BEMF rpm     : 0 rpm
+
+
+PB1 pressed! Increasing PWM by 10%, duty cycle = 80%
+
+Duty cycle   : 80 %
+Optical freq : 583 Hz
+Optical rpm  : 1093 rpm
+Raw ADC      : 591
+Drain volts  : 2713 mV
+BEMF volts   : 7287 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 80 %
+Optical freq : 658 Hz
+Optical rpm  : 1234 rpm
+Raw ADC      : 663
+Drain volts  : 3043 mV
+BEMF volts   : 6957 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 80 %
+Optical freq : 659 Hz
+Optical rpm  : 1236 rpm
+Raw ADC      : 633
+Drain volts  : 2901 mV
+BEMF volts   : 7099 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 80 %
+Optical freq : 660 Hz
+Optical rpm  : 1238 rpm
+Raw ADC      : 611
+Drain volts  : 2804 mV
+BEMF volts   : 7196 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 80 %
+Optical freq : 659 Hz
+Optical rpm  : 1236 rpm
+Raw ADC      : 596
+Drain volts  : 2736 mV
+BEMF volts   : 7264 mV
+BEMF rpm     : 0 rpm
+
+PB1 pressed! Increasing PWM by 10%, duty cycle = 90%
+
+Duty cycle   : 90 %
+Optical freq : 698 Hz
+Optical rpm  : 1309 rpm
+Raw ADC      : 312
+Drain volts  : 1430 mV
+BEMF volts   : 8570 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 90 %
+Optical freq : 753 Hz
+Optical rpm  : 1412 rpm
+Raw ADC      : 337
+Drain volts  : 1544 mV
+BEMF volts   : 8456 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 90 %
+Optical freq : 751 Hz
+Optical rpm  : 1408 rpm
+Raw ADC      : 337
+Drain volts  : 1544 mV
+BEMF volts   : 8456 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 90 %
+Optical freq : 751 Hz
+Optical rpm  : 1408 rpm
+Raw ADC      : 359
+Drain volts  : 1647 mV
+BEMF volts   : 8353 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 90 %
+Optical freq : 751 Hz
+Optical rpm  : 1408 rpm
+Raw ADC      : 344
+Drain volts  : 1578 mV
+BEMF volts   : 8422 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 100 %
+Optical freq : 834 Hz
+Optical rpm  : 1564 rpm
+Raw ADC      : 135
+Drain volts  : 615 mV
+BEMF volts   : 9385 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 100 %
+Optical freq : 840 Hz
+Optical rpm  : 1575 rpm
+Raw ADC      : 69
+Drain volts  : 313 mV
+BEMF volts   : 9687 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 100 %
+Optical freq : 841 Hz
+Optical rpm  : 1577 rpm
+Raw ADC      : 72
+Drain volts  : 330 mV
+BEMF volts   : 9670 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 100 %
+Optical freq : 843 Hz
+Optical rpm  : 1581 rpm
+Raw ADC      : 126
+Drain volts  : 575 mV
+BEMF volts   : 9425 mV
+BEMF rpm     : 0 rpm
+
+Duty cycle   : 100 %
+Optical freq : 843 Hz
+Optical rpm  : 1581 rpm
+Raw ADC      : 70
+Drain volts  : 319 mV
+BEMF volts   : 9681 mV
+BEMF rpm     : 0 rpm
+
+Mechatronics Lab 3 Data post calibration:
+
+Duty cycle   : 0 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2114
+Drain volts  : 9707 mV
+BEMF volts   : 293 mV
+BEMF rpm     : 26 rpm
+
+Duty cycle   : 0 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2115
+Drain volts  : 9707 mV
+BEMF volts   : 293 mV
+BEMF rpm     : 25 rpm
+
+Duty cycle   : 0 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2112
+Drain volts  : 9695 mV
+BEMF volts   : 305 mV
+BEMF rpm     : 27 rpm
+
+Duty cycle   : 0 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2117
+Drain volts  : 9718 mV
+BEMF volts   : 282 mV
+BEMF rpm     : 23 rpm
+
+Duty cycle   : 0 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2114
+Drain volts  : 9707 mV
+BEMF volts   : 293 mV
+BEMF rpm     : 26 rpm
+
+
+Duty cycle   : 10 %
+Optical freq : 0 Hz
+Optical rpm  : 0 rpm
+Raw ADC      : 2118
+Drain volts  : 9724 mV
+BEMF volts   : 276 mV
+BEMF rpm     : 23 rpm
+
+Duty cycle   : 10 %
+Optical freq : 108 Hz
+Optical rpm  : 203 rpm
+Raw ADC      : 2101
+Drain volts  : 9644 mV
+BEMF volts   : 356 mV
+BEMF rpm     : 36 rpm
+
+Duty cycle   : 10 %
+Optical freq : 12 Hz
+Optical rpm  : 23 rpm
+Raw ADC      : 2108
+Drain volts  : 9678 mV
+BEMF volts   : 322 mV
+BEMF rpm     : 30 rpm
+
+Duty cycle   : 10 %
+Optical freq : 5 Hz
+Optical rpm  : 9 rpm
+Raw ADC      : 2059
+Drain volts  : 9450 mV
+BEMF volts   : 550 mV
+BEMF rpm     : 69 rpm
+
+Duty cycle   : 10 %
+Optical freq : 9 Hz
+Optical rpm  : 17 rpm
+Raw ADC      : 2125
+Drain volts  : 9758 mV
+BEMF volts   : 242 mV
+BEMF rpm     : 17 rpm
+
+Duty cycle   : 20 %
+Optical freq : 121 Hz
+Optical rpm  : 227 rpm
+Raw ADC      : 1860
+Drain volts  : 8538 mV
+BEMF volts   : 1462 mV
+BEMF rpm     : 224 rpm
+
+Duty cycle   : 20 %
+Optical freq : 118 Hz
+Optical rpm  : 221 rpm
+Raw ADC      : 1888
+Drain volts  : 8669 mV
+BEMF volts   : 1331 mV
+BEMF rpm     : 203 rpm
+
+Duty cycle   : 20 %
+Optical freq : 119 Hz
+Optical rpm  : 223 rpm
+Raw ADC      : 1873
+Drain volts  : 8601 mV
+BEMF volts   : 1399 mV
+BEMF rpm     : 214 rpm
+
+Duty cycle   : 20 %
+Optical freq : 112 Hz
+Optical rpm  : 210 rpm
+Raw ADC      : 1849
+Drain volts  : 8487 mV
+BEMF volts   : 1513 mV
+BEMF rpm     : 233 rpm
+
+Duty cycle   : 20 %
+Optical freq : 116 Hz
+Optical rpm  : 218 rpm
+Raw ADC      : 1868
+Drain volts  : 8572 mV
+BEMF volts   : 1428 mV
+BEMF rpm     : 218 rpm
+
+Duty cycle   : 30 %
+Optical freq : 204 Hz
+Optical rpm  : 383 rpm
+Raw ADC      : 1638
+Drain volts  : 7518 mV
+BEMF volts   : 2482 mV
+BEMF rpm     : 398 rpm
+
+Duty cycle   : 30 %
+Optical freq : 205 Hz
+Optical rpm  : 384 rpm
+Raw ADC      : 1672
+Drain volts  : 7677 mV
+BEMF volts   : 2323 mV
+BEMF rpm     : 371 rpm
+
+Duty cycle   : 30 %
+Optical freq : 204 Hz
+Optical rpm  : 383 rpm
+Raw ADC      : 1639
+Drain volts  : 7524 mV
+BEMF volts   : 2476 mV
+BEMF rpm     : 397 rpm
+
+Duty cycle   : 30 %
+Optical freq : 208 Hz
+Optical rpm  : 390 rpm
+Raw ADC      : 1630
+Drain volts  : 7484 mV
+BEMF volts   : 2516 mV
+BEMF rpm     : 404 rpm
+
+Duty cycle   : 30 %
+Optical freq : 208 Hz
+Optical rpm  : 390 rpm
+Raw ADC      : 1642
+Drain volts  : 7535 mV
+BEMF volts   : 2465 mV
+BEMF rpm     : 395 rpm
+
+Duty cycle   : 40 %
+Optical freq : 301 Hz
+Optical rpm  : 564 rpm
+Raw ADC      : 1420
+Drain volts  : 6520 mV
+BEMF volts   : 3480 mV
+BEMF rpm     : 569 rpm
+
+Duty cycle   : 40 %
+Optical freq : 297 Hz
+Optical rpm  : 557 rpm
+Raw ADC      : 1484
+Drain volts  : 6811 mV
+BEMF volts   : 3189 mV
+BEMF rpm     : 518 rpm
+
+Duty cycle   : 40 %
+Optical freq : 297 Hz
+Optical rpm  : 557 rpm
+Raw ADC      : 1432
+Drain volts  : 6572 mV
+BEMF volts   : 3428 mV
+BEMF rpm     : 559 rpm
+
+Duty cycle   : 40 %
+Optical freq : 296 Hz
+Optical rpm  : 555 rpm
+Raw ADC      : 1409
+Drain volts  : 6469 mV
+BEMF volts   : 3531 mV
+BEMF rpm     : 577 rpm
+
+Duty cycle   : 40 %
+Optical freq : 297 Hz
+Optical rpm  : 557 rpm
+Raw ADC      : 1461
+Drain volts  : 6708 mV
+BEMF volts   : 3292 mV
+BEMF rpm     : 536 rpm
+
+Duty cycle   : 50 %
+Optical freq : 391 Hz
+Optical rpm  : 733 rpm
+Raw ADC      : 1168
+Drain volts  : 5363 mV
+BEMF volts   : 4637 mV
+BEMF rpm     : 766 rpm
+
+Duty cycle   : 50 %
+Optical freq : 392 Hz
+Optical rpm  : 735 rpm
+Raw ADC      : 1207
+Drain volts  : 5540 mV
+BEMF volts   : 4460 mV
+BEMF rpm     : 735 rpm
+
+Duty cycle   : 50 %
+Optical freq : 393 Hz
+Optical rpm  : 737 rpm
+Raw ADC      : 1225
+Drain volts  : 5620 mV
+BEMF volts   : 4380 mV
+BEMF rpm     : 721 rpm
+
+Duty cycle   : 50 %
+Optical freq : 390 Hz
+Optical rpm  : 731 rpm
+Raw ADC      : 1186
+Drain volts  : 5443 mV
+BEMF volts   : 4557 mV
+BEMF rpm     : 752 rpm
+
+Duty cycle   : 50 %
+Optical freq : 393 Hz
+Optical rpm  : 737 rpm
+Raw ADC      : 1176
+Drain volts  : 5397 mV
+BEMF volts   : 4603 mV
+BEMF rpm     : 759 rpm
+
+Duty cycle   : 60 %
+Optical freq : 483 Hz
+Optical rpm  : 906 rpm
+Raw ADC      : 943
+Drain volts  : 4326 mV
+BEMF volts   : 5674 mV
+BEMF rpm     : 942 rpm
+
+Duty cycle   : 60 %
+Optical freq : 483 Hz
+Optical rpm  : 906 rpm
+Raw ADC      : 964
+Drain volts  : 4423 mV
+BEMF volts   : 5577 mV
+BEMF rpm     : 925 rpm
+
+Duty cycle   : 60 %
+Optical freq : 486 Hz
+Optical rpm  : 911 rpm
+Raw ADC      : 941
+Drain volts  : 4320 mV
+BEMF volts   : 5680 mV
+BEMF rpm     : 943 rpm
+
+Duty cycle   : 60 %
+Optical freq : 485 Hz
+Optical rpm  : 909 rpm
+Raw ADC      : 1018
+Drain volts  : 4674 mV
+BEMF volts   : 5326 mV
+BEMF rpm     : 883 rpm
+
+Duty cycle   : 60 %
+Optical freq : 486 Hz
+Optical rpm  : 911 rpm
+Raw ADC      : 1009
+Drain volts  : 4628 mV
+BEMF volts   : 5372 mV
+BEMF rpm     : 890 rpm
+
+
+Duty cycle   : 70 %
+Optical freq : 574 Hz
+Optical rpm  : 1076 rpm
+Raw ADC      : 795
+Drain volts  : 3648 mV
+BEMF volts   : 6352 mV
+BEMF rpm     : 1057 rpm
+
+Duty cycle   : 70 %
+Optical freq : 573 Hz
+Optical rpm  : 1074 rpm
+Raw ADC      : 740
+Drain volts  : 3397 mV
+BEMF volts   : 6603 mV
+BEMF rpm     : 1100 rpm
+
+Duty cycle   : 70 %
+Optical freq : 577 Hz
+Optical rpm  : 1082 rpm
+Raw ADC      : 854
+Drain volts  : 3921 mV
+BEMF volts   : 6079 mV
+BEMF rpm     : 1011 rpm
+
+Duty cycle   : 70 %
+Optical freq : 573 Hz
+Optical rpm  : 1074 rpm
+Raw ADC      : 726
+Drain volts  : 3328 mV
+BEMF volts   : 6672 mV
+BEMF rpm     : 1111 rpm
+
+Duty cycle   : 70 %
+Optical freq : 574 Hz
+Optical rpm  : 1076 rpm
+Raw ADC      : 856
+Drain volts  : 3927 mV
+BEMF volts   : 6073 mV
+BEMF rpm     : 1010 rpm
+
+Duty cycle   : 80 %
+Optical freq : 659 Hz
+Optical rpm  : 1236 rpm
+Raw ADC      : 667
+Drain volts  : 3060 mV
+BEMF volts   : 6940 mV
+BEMF rpm     : 1157 rpm
+
+Duty cycle   : 80 %
+Optical freq : 655 Hz
+Optical rpm  : 1228 rpm
+Raw ADC      : 655
+Drain volts  : 3003 mV
+BEMF volts   : 6997 mV
+BEMF rpm     : 1167 rpm
+
+Duty cycle   : 80 %
+Optical freq : 656 Hz
+Optical rpm  : 1230 rpm
+Raw ADC      : 562
+Drain volts  : 2576 mV
+BEMF volts   : 7424 mV
+BEMF rpm     : 1239 rpm
+
+Duty cycle   : 80 %
+Optical freq : 655 Hz
+Optical rpm  : 1228 rpm
+Raw ADC      : 530
+Drain volts  : 2433 mV
+BEMF volts   : 7567 mV
+BEMF rpm     : 1264 rpm
+
+Duty cycle   : 80 %
+Optical freq : 655 Hz
+Optical rpm  : 1228 rpm
+Raw ADC      : 559
+Drain volts  : 2565 mV
+BEMF volts   : 7435 mV
+BEMF rpm     : 1242 rpm
+
+Duty cycle   : 90 %
+Optical freq : 743 Hz
+Optical rpm  : 1393 rpm
+Raw ADC      : 327
+Drain volts  : 1499 mV
+BEMF volts   : 8501 mV
+BEMF rpm     : 1423 rpm
+
+Duty cycle   : 90 %
+Optical freq : 745 Hz
+Optical rpm  : 1397 rpm
+Raw ADC      : 330
+Drain volts  : 1510 mV
+BEMF volts   : 8490 mV
+BEMF rpm     : 1421 rpm
+
+Duty cycle   : 90 %
+Optical freq : 748 Hz
+Optical rpm  : 1403 rpm
+Raw ADC      : 366
+Drain volts  : 1675 mV
+BEMF volts   : 8325 mV
+BEMF rpm     : 1393 rpm
+
+Duty cycle   : 90 %
+Optical freq : 747 Hz
+Optical rpm  : 1401 rpm
+Raw ADC      : 418
+Drain volts  : 1915 mV
+BEMF volts   : 8085 mV
+BEMF rpm     : 1352 rpm
+
+Duty cycle   : 90 %
+Optical freq : 745 Hz
+Optical rpm  : 1397 rpm
+Raw ADC      : 319
+Drain volts  : 1464 mV
+BEMF volts   : 8536 mV
+BEMF rpm     : 1429 rpm
+
+Duty cycle   : 100 %
+Optical freq : 831 Hz
+Optical rpm  : 1558 rpm
+Raw ADC      : 164
+Drain volts  : 752 mV
+BEMF volts   : 9248 mV
+BEMF rpm     : 1551 rpm
+
+Duty cycle   : 100 %
+Optical freq : 834 Hz
+Optical rpm  : 1564 rpm
+Raw ADC      : 108
+Drain volts  : 495 mV
+BEMF volts   : 9505 mV
+BEMF rpm     : 1594 rpm
+
+Duty cycle   : 100 %
+Optical freq : 832 Hz
+Optical rpm  : 1560 rpm
+Raw ADC      : 157
+Drain volts  : 718 mV
+BEMF volts   : 9282 mV
+BEMF rpm     : 1556 rpm
+
+Duty cycle   : 100 %
+Optical freq : 830 Hz
+Optical rpm  : 1556 rpm
+Raw ADC      : 344
+Drain volts  : 1578 mV
+BEMF volts   : 8422 mV
+BEMF rpm     : 1410 rpm
+
+Duty cycle   : 100 %
+Optical freq : 832 Hz
+Optical rpm  : 1560 rpm
+Raw ADC      : 151
+Drain volts  : 689 mV
+BEMF volts   : 9311 mV
+BEMF rpm     : 1561 rpm
